@@ -9,14 +9,6 @@ print("Hours Are: ",hours)
 print("Minutes Are: ",minutes)
 print("Seconds Are: ",sec)
 
-
-
-
-
-
-
-
-
 '''pl-ii@plii-HP-Pro-Tower-280-G9-PCI-Desktop-PC:~/B1_22/SEM 2$ python3 Assignment1.py
 Enter seconds 3666
 Hours Are:  1
